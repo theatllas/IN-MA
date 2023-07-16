@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Hangman\Hangman\obj\Debug\Hangman.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\ASUS\source\repos\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\ASUS\source\repos\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\ASUS\source\repos\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\ASUS\source\repos\Hangman\Hangman\obj\Debug\Hangman.pdb
